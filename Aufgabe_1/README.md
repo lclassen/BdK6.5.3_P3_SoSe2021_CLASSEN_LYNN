@@ -25,9 +25,9 @@ Die Fehlermeldung war darauf zurückzuführen, dass es den Key "title" nicht im 
 pmid_data["result"]["31452104"]["title"]
 
 ## 4. Was ist JupyterLab?
-Bei JuypterLab läuft alles über eine Anischtsseite, während bei JupyterNotebook, ein neuer Tab geöffnet wird, wenn auf ein Notebook zugegriffen wird. 
+Bei JuypterLab läuft alles über eine Ansichtsseite, während bei JupyterNotebook ein neuer Tab geöffnet wird, wenn auf ein Notebook zugegriffen wird. 
 Die Ansicht von JuypterLab wirkt insgesamt komplexer und "professioneller", wobei auf den ersten Blick die gleichen Funktionen zur Verfügung stehen.
-JupyterLab ist die nächste Generation von JupyterNotebook, die eine gleichzeitige Nutzung von Texeditoren, Terminals und Dateimanager in einer gemeinsamen Oberfläche ermöglicht, was JupyterNotebook nicht konnte.
+JupyterLab ist die nächste Generation von JupyterNotebook, die eine gleichzeitige Nutzung von Texteditoren, Terminals und Dateimanager in einer gemeinsamen Oberfläche ermöglicht, was JupyterNotebook nicht kann.
 
 ## 5. Was ist der große Unterschied zwischen den Webframeworks flask und Django
-flask legt den Fokus auf kleine Applikation mit niedrigen ANforderungen, während Django mehr für große Projekte geeignet ist. Bei flask kann der Entwickler seine Tools und Komponenten selbst auswählen, bei Django ist dies nicht der Fall, der Entwickler bekommt Tools und Komponenten "vorgesetzt".
+flask legt den Fokus auf kleine Applikation mit niedrigen Anforderungen, während Django eher für große Projekte geeignet ist. Bei flask kann der Entwickler seine Tools und Komponenten selbst auswählen, bei Django ist dies nicht der Fall, der Entwickler bekommt Tools und Komponenten "vorgesetzt".
